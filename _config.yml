@@ -1,0 +1,28 @@
+name: skyerossi
+favicon: null
+layout_spectrum: 0.7909574874211103
+typography_spectrum: 0.9397316861432046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.509523801272735
+  lightness: 0.9309009553398937
+  saturation: 0.13995588850229979
+  rhythmicContrast: 0.619761697249487
+purpose: []
